@@ -1,0 +1,72 @@
+[
+  {
+    "id": "P001",
+    "name": "Dober Mix",
+    "age": 3,
+    "type": "Dog",
+    "weight": 12,
+    "length": 87,
+    "color": "#e86d6d",
+    "breed": "Doberman Pinscher",
+    "vaccinated": true,
+    "dewormed": true,
+    "sterilized": true,
+    "date": "2023-05-11T02:37:12.469Z"
+  },
+  {
+    "id": "P002",
+    "name": "Charlie Tux",
+    "age": 4,
+    "type": "Cat",
+    "weight": 4,
+    "length": 65,
+    "color": "#4ee916",
+    "breed": "Tabby",
+    "vaccinated": true,
+    "dewormed": false,
+    "sterilized": false,
+    "date": "2023-05-11T04:12:12.963Z"
+  },
+  {
+    "id": "P003",
+    "name": "Sweetie Pie",
+    "age": 3,
+    "type": "Dog",
+    "weight": 6,
+    "length": 45,
+    "color": "#000000",
+    "breed": "Husky",
+    "vaccinated": false,
+    "dewormed": false,
+    "sterilized": true,
+    "date": "2023-05-11T04:12:22.739Z"
+  },
+  {
+    "id": "P004",
+    "name": "Chocolate and Kitten",
+    "age": 4,
+    "type": "Cat",
+    "weight": 6,
+    "length": 87,
+    "color": "#4cbd0f",
+    "breed": "Mixed Breed",
+    "vaccinated": false,
+    "dewormed": false,
+    "sterilized": false,
+    "date": "2023-05-11T02:37:15.484Z"
+  },
+  {
+    "id": "P005",
+    "name": "Symph",
+    "age": 6,
+    "type": "Dog",
+    "weight": 8,
+    "length": 77,
+    "color": "#d7adad",
+    "breed": "Doberman Pinscher",
+    "vaccinated": true,
+    "dewormed": true,
+    "sterilized": true,
+    "date": "2023-05-11T02:37:21.389Z"
+  }
+]
