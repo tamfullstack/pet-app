@@ -9,5 +9,5 @@ The application helps to manage the pets' information.
 ## Demo link
 https://tamfullstack.github.io/pet-app
 ## Deployment guide (on local)
-`$ git clone https://github.com/tamfullstack/pet-app.git`
+`$ git clone https://github.com/tamfullstack/pet-app.git`   
 `$ live-server`
